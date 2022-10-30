@@ -169,3 +169,12 @@
   });
 
 })(jQuery);
+
+//tooltips
+$(document).ready(function () {
+  $('[data-toggle="html"]').tooltip();
+  $('[data-toggle="css"]').tooltip();
+  $('[data-toggle="sql"]').tooltip();
+  $('[data-toggle="java"]').tooltip();
+  $('[data-toggle="js"]').tooltip();
+});
