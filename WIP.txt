@@ -23,6 +23,26 @@ sum of all fears---
           </div>
         </div> -->
 
+         <div class="modal-header">
+        <h4 style="color: black;" class="modal-title"> Sum of All Fears</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+       <img src="" class="img-fluid" alt="">
+       <p style="color: rgb(8, 8, 8);">Are you ready to face the SUM of ALL Fears? (aka Numbers)</p> 
+      </div>
+
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <a target="_blank" href="https://sumthosefears.netlify.app/solve.html" type="button" class="btn btn-primary" >Check it out</a>
+      </div>
+
+
+sunset hills --
+
 
                 <!-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-lg-4 ">
             <div class="portfolio-wrap"  type="button" data-toggle="modal" data-target="#sunset">
@@ -34,6 +54,34 @@ sum of all fears---
             </div>
           </div> -->
           
+        </div> -->
+
+          <div class="modal fade" id="sunset">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+      
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 style="color: black;" class="modal-title"> Sunset Hills</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+       <img src="" class="img-fluid" alt="">
+       <p style="color: rgb(0, 0, 0);">an algorithim to determine if the height of the building will allow a beautiful view of the sunset</p>
+      </div>
+
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <a target="_blank" href="https://watchthesunsethills.netlify.app/" type="button" class="btn btn-primary" >Check it out</a>
+      </div>
+
+    </div>
+  </div>
+</div>
+
           mortgage calculator
         <!-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-lg-4">
             <div class="portfolio-wrap" type="button" data-toggle="modal" data-target="#mortgage">
@@ -45,4 +93,29 @@ sum of all fears---
             </div>
           </div>
           
-        </div> -->
+          
+    <div class="modal fade" id="mortgage">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+      
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 style="color: black;" class="modal-title"> Mortgage Calculator</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+       <img src="" class="img-fluid" alt="">
+       <p style="color: rgb(0, 0, 0);">Calculate your mortgage!</p>
+      </div>
+
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <a target="_blank" href="https://mortgage-loan-calculator.netlify.app/solve.html" type="button" class="btn btn-primary" >Check it out</a>
+      </div>
+
+    </div>
+  </div>
+</div>
