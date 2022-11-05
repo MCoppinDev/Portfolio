@@ -85,3 +85,7 @@ img.resize {
   max-width: 20%;
   max-height: 20%;
 }
+
+.my-modal{
+ background: rgba(12, 60, 21, 0.15);
+}
